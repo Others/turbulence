@@ -1,0 +1,10 @@
+[package]
+authors = ["Gregor Peach <gregorpeach@gmail.com>"]
+name = "turbulence"
+version = "0.1.0"
+
+[dependencies]
+rand = "0.3.15"
+
+[lib]
+doctest = false
